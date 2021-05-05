@@ -1,0 +1,27 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Adapter/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Bridge/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Builder/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.ChainResponsibility/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Command/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Composite/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Decorator/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Facade/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Flyweight/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Iterator/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Mediator/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Memento/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Observer/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Prototype/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Proxy/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Singleton/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.State/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Strategy/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Template/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Tests/obj
+/SernaSistemas.DesignPatterns/SernaSistemas.DesignPatterns.Visitor/obj
+/SernaSistemas.DesignPatterns/.vs/SernaSistemas.DesignPatterns/v16/.suo
