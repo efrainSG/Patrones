@@ -2,7 +2,8 @@
 
 namespace SernaSistemas.DesignPatterns.Adapter
 {
-    public class Class1
+    public interface ITarget
     {
+        string GetRequest();
     }
 }
