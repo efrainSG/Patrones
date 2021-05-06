@@ -1,14 +1,22 @@
-﻿using NUnit.Framework;
+﻿using SernaSistemas.DesignPatterns.Factory;
+using NUnit.Framework;
 
-namespace SernaSistemas.DesignPatterns.Tests
+namespace SernaSistemas.DesignPatterns.Factory.Tests
 {
     [TestFixture()]
     public class FactoryMethodTests
     {
         [Test()]
-        public void PrincipalTest()
+        public void AbstractFactoryPrincipalTest()
         {
-            Cliente cliente = new Cliente();
+            AbstractFactoryCliente cliente = new AbstractFactoryCliente();
+            cliente.Principal();
+        }
+
+        [Test()]
+        public void FactoryPrincipalTest()
+        {
+            FactoryCliente cliente = new FactoryCliente();
             cliente.Principal();
         }
     }
