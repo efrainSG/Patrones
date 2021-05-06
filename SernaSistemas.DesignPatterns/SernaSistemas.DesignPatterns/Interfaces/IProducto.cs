@@ -2,7 +2,8 @@
 
 namespace SernaSistemas.DesignPatterns
 {
-    public class Class1
+    public interface IProducto
     {
+        string Operacion();
     }
 }
