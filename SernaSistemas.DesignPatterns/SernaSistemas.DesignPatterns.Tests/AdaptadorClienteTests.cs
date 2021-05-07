@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using SernaSistemas.DesignPatterns.Adapter;
+using NUnit.Framework;
 
 namespace SernaSistemas.DesignPatterns.Adapter.Tests
 {
