@@ -7,7 +7,10 @@
         {
             this.adaptar = adaptar;
         }
-        public string GetRequest() => $"Esto es '{adaptar.GetRequestEspecifico()}'.";
-        
+        public string GetRequest()
+        {
+            return $"Esto es '{adaptar.GetRequestEspecifico()}' desde {this.ToString()}";
+        }
+
     }
 }
