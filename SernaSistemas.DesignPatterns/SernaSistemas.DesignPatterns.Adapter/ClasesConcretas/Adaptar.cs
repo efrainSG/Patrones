@@ -2,6 +2,9 @@
 {
     public class Adaptar
     {
-        public string GetRequestEspecifico() => "Request específico";
+        public string GetRequestEspecifico()
+        {
+            return "Request específico :: " + this.ToString();
+        }
     }
 }
