@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SernaSistemas.DesignPatterns.Adapter
+﻿namespace SernaSistemas.DesignPatterns.Adapter
 {
     public interface ITarget
     {
