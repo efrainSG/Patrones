@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\SernaSistemas.DesignPatterns\SernaSistemas.DesignPatterns.Factory.csproj" />
     <ProjectReference Include="..\SernaSistemas.DesignPatterns.Adapter\SernaSistemas.DesignPatterns.Adapter.csproj" />
   </ItemGroup>
 
