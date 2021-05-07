@@ -12,4 +12,8 @@
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SernaSistemas.DesignPatterns\SernaSistemas.DesignPatterns.Factory.csproj" />
+  </ItemGroup>
+
 </Project>
