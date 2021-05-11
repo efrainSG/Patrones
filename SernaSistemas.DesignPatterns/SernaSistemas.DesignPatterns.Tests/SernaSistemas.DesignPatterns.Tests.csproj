@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SernaSistemas.DesignPatterns.Bridge\SernaSistemas.DesignPatterns.Bridge.csproj" />
+    <ProjectReference Include="..\SernaSistemas.DesignPatterns.ChainResponsibility\SernaSistemas.DesignPatterns.ChainResponsibility.csproj" />
     <ProjectReference Include="..\SernaSistemas.DesignPatterns\SernaSistemas.DesignPatterns.Factory.csproj" />
     <ProjectReference Include="..\SernaSistemas.DesignPatterns.Adapter\SernaSistemas.DesignPatterns.Adapter.csproj" />
   </ItemGroup>
